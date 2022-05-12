@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 new file folder
+=======
+hi i'm harsh
+>>>>>>> 2d1fc055ab1269309967a052e204648b3b2ab7f9
